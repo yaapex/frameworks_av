@@ -347,6 +347,7 @@ public:
      */
     bool isAutomotiveExteriorSystemCamera(const std::string& cameraId) const;
 
+
     /////////////////////////////////////////////////////////////////////
     // CameraClient functionality
 
